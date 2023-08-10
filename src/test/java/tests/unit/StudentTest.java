@@ -15,4 +15,9 @@ public class StudentTest {
 		assertEquals(expgrade, s1.printGrade());
 	}
 
+	public void merge()
+	{
+
+	}
+
 }
