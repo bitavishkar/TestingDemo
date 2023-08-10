@@ -1,6 +1,5 @@
 package app;
 // I WAS HERE @AVISHKAR GHADGE 
-
 public class Book {
 	private int isbn;
 	private String title;
@@ -10,8 +9,6 @@ public class Book {
 		this.title = title;
 		this.category = category;
 	}
-	
-	public void equals(){}
 	
 	public int getIsbn()
 	{
