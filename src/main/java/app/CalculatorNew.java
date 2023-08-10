@@ -9,4 +9,10 @@ public class CalculatorNew {
 		else
 			return j-1;
 	}
+	public void test1()
+	{
+		
+	}
 }
+
+

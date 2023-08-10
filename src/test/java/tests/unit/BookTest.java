@@ -15,6 +15,9 @@ import app.Library;
 
 public class BookTest {
 
+	public void con()
+	{}
+	
 	@Test
 	public void test() {
 		//Mock object
